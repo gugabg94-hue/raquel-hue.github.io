@@ -51,7 +51,7 @@
 </head>
 <body>
 
-    <h1>Eu amo você, Raquel, pra todo sempre! ❤️</h1>
+    <h1>Eu amo você, Raquel, para todo sempre! ❤️</h1>
 
     <script>
         function criarCoracao() {
